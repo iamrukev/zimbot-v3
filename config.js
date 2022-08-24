@@ -40,10 +40,10 @@ global.APIKeys = {
 global.owner = ['2348139148178','']
 global.premium = ['2348139148178','2349017880096']
 global.botname = 'RUKEV BOT'
-global.ownername = 'DRIPS'
+global.ownername = 'RUKEV'
 global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
 global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
+global.packname = 'RUKEV INC'
 global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
 global.monayawal = '100000'
 global.darahawal = '100'
@@ -72,15 +72,15 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '*success whoa*',
-        ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
-    horny: '*nsfw is disabled please ask owner to enable it*',
-    admin: '*this cmd is for admin only , l can feel you but sorry okay*',
+        ban: '*Sorry, looks like u got banned 😂 go sleep*',
+    horny: '*nsfw is disabled please ask Rukev to enable it*',
+    admin: '*this cmd is for admin only , werey go find chair sitdown*',
     botAdmin: '*with due respect can you please give bot adminship*',
-    owner: '*this cmd is for bot owner only , l can feel you but sorry okay*',
-    group: '*this feature is only for groups okay*',
+    owner: '*this cmd is for bot owner only , Go and sleep*',
+    group: '*this feature is only for groups okay werey*',
     private: '*this feature can only used in dm okay*',
     bot: '*Special Features for User Bot Number okay*',
-    wait: '*whoa wait zim bot processing okay*',
+    wait: '*whoa Rukev bot is processing*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
